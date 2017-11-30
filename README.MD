@@ -175,4 +175,4 @@ Percentage of the requests served within a certain time (ms)
  100%    296 (longest request)
  ```
 
-可以看出，高并发时orm效率更高
+可以看出，高并发时orm效率更高，但平均单个请求，自己写dao效率高。
